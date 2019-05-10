@@ -1,0 +1,178 @@
+
+APPLICATION MENU
+Prerequisite Knowledge
+Please tell us about your technical skill levels and experience below.
+
+* indicates a required question
+
+Without much preparation, I could do the following on my own: *
+
+Using whichever programming language you are most experienced / comfortable with.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What best describes your level of proficiency with Git and GitHub? *
+
+
+
+
+
+
+
+
+
+Use the below descriptions for the following questions describing your level of familiarity with programming.
+
+Level 0: I have never used this language before.
+
+Level 1: I'm learning the basics like variables, conditionals, arithmetic, basic syntax, and string manipulation.
+
+Level 2: I can read other people's code. I can find and fix simple bugs.
+
+Level 3: I can break down problems and I am prepared to reuse existing code, while implementing new functions/classes of my own and specialized libraries. I can trace the execution of most programs with ease.
+
+Level 4: I can write lean, well structured code to solve complex problems utilizing the full extent of the language's feature set.
+
+What best describes your level of familiarity with Python? *
+
+
+
+
+
+
+
+
+
+
+
+What best describes your level of familiarity with Linux? *
+
+
+
+
+
+
+
+
+
+
+
+What best describes your level of familiarity with Calculus? *
+
+
+
+
+
+
+
+
+
+
+
+What best describes your level of familiarity with linear algebra? *
+
+
+
+
+
+
+
+
+
+
+
+Write a function named population_density that takes two arguments, population and land_area, and returns a population density calculated from those values. *
+
+
+
+
+
+Use the math module to calculate e to the power of 3. print the answer *
+
+
+
+
+
+Given:
+
+x =  torch.Tensor([[1, 2, 3], [1, 2, 3]]).view(-1, 2)
+y =  torch.Tensor([[2, 1]]).view(2, -1)
+How would you calculate matrix product of the two tensors? *
+ans: torch.mm(a,b) 
+
+
+
+
+
+
+
+
+What does the term ‘Bias’ refer to with respect to Machine Learning models and what can it lead to? *
+
+Bias is used to refer to a situation where machine learning algorithms produce results that are  one-sided because of some misconceptions during their development. Machine Learning bias often occurs due to lack of scope or breadth in the data used, and lack of quality and adequate quantity of those data.
+
+
+ which produces those results. 
+
+
+
+
+
+
+Have you built or designed any publicly available web projects? If so, provide links to any webpage you've personally built, or your GitHub URL:
+
+
+APPLICATION MENU
+Your Goals
+Please tell us about your aspirations and expectations for this program. This section will help ensure that our goals are aligned and that the scholarship program is a fit for you at this time.
+
+* indicates a required question
+
+What is your primary purpose in participating in this scholarship program? *
+
+My aim in participating in this program is to gain first class knowledge in Artificial Intelligence which this program offers. I will love to utilize the first class knowledge I will get from this program to prepare my self for a career in Airtificial intelligence, and to turn the ideas I have into applications. I have always wanted to gain skills that will put me in a position to be creative and solve problems, and from what I have gathered from stories like that of ... , and the awesome things I have heard about udacity's nanodegree programs, I know I will gain a lot from this program that will help me reach this goal. 
+
+I have been gathering ai knowledge piece by piece from different little youtube video and udemy course. They did I nice job in teaching the topics but I am always left with questions as they are never truely complete with teaching the important skills to start a career. I b 
+
+I will be out of school for the next six months to continue by January next year and this is for a compulsory Internship that I must participate in but unfortunately I could not secure a place in a tech industry because I dont live in Lagos and was not willing to move out of my state for some reasons. I planed to spend the next six months working two hours per day as a part time maths teacher and spending most of my time building projects. But fortunately this scholarship came along. It will be wonderful to be given this opportunity to learn from industry experts in this progra 
+
+What do you hope to accomplish through this program? *
+
+What I want to accomplish is gain practical knowledge from completing projects in the program that I can put on my CV and skills that I can apply in creating solutions to local problems. I will also love to get the certificate for completing the program to show my future employers and Dad. 
+
+
+
+Please comment on relevant personal and professional goals. Include information about professional achievements (e.g., projects) that demonstrate how you have worked towards your goal. Please answer using complete sentences and no more than 150 words.
+
+
+Why do you want, deserve, or need this scholarship? *
+I am passionate about solving problems and mathematics
+
+
+As a supporter of the program, the Facebook AI team would like to stay in touch with you and share news and other updates from the PyTorch community. Can we share your email with Facebook AI team so that you can receive communications from them? *
+
+Your answer to this question will not impact review of your scholarship application.
+
+
+
+
+
+
+
+
+
+                                                  
+
+Please type your full legal name here as your signature agreeing to all previous statements in this form. 
